@@ -77,6 +77,12 @@
 
 ![Slide37](https://github.com/AdhamAbdo/Cars-Data-Analysis-EDA/assets/74153630/99c551c5-117e-44e4-9e79-fc935bfce3f5)
 
+![Screenshot](Slide38.PNG)
+
+![Screenshot](Slide39.PNG)
+
+![Screenshot](Slide40.PNG)
+
 ![Car Analysis1](https://github.com/AdhamAbdo/Cars-Data-Analysis-EDA/assets/74153630/57b207d9-0e93-4a70-a0e8-e60d8e065dce)
 
 ![Car Analysis](https://github.com/AdhamAbdo/Cars-Data-Analysis-EDA/assets/74153630/b4831179-e4c2-43b8-b03a-d0716228aa10)
@@ -86,12 +92,6 @@
 ![Car Analysisss](https://github.com/AdhamAbdo/Cars-Data-Analysis-EDA/assets/74153630/c14d4fa5-746f-4a61-951d-9b419cafddc8)
 
 ![Car Analysiscon](https://github.com/AdhamAbdo/Cars-Data-Analysis-EDA/assets/74153630/eb9fd25f-1eba-48f7-be59-12fa763b6aa0)
-
-![Screenshot](Slide39.PNG)
-
-![Screenshot](Slide40.PNG)
-
-![Screenshot](Slide41.PNG)
 
 ![Screenshot](Slide42.PNG)
 
