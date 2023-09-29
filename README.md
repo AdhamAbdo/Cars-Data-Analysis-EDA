@@ -77,12 +77,12 @@
 
 ![Screenshot](Slide38.PNG)
 
-![Screenshot](Slide39.png)
+![Screenshot](Slide39.PNG)
 
-![Screenshot](Slide40.png)
+![Screenshot](Slide40.PNG)
 
-![Screenshot](Slide41.png)
+![Screenshot](Slide41.PNG)
 
-![Screenshot](Slide42.png)
+![Screenshot](Slide42.PNG)
 
 
