@@ -75,7 +75,7 @@
 
 ![Slide37](https://github.com/AdhamAbdo/Cars-Data-Analysis-EDA/assets/74153630/99c551c5-117e-44e4-9e79-fc935bfce3f5)
 
-![Screenshot](Slide38.png)
+![Screenshot](Slide38.PNG)
 
 ![Screenshot](Slide39.png)
 
