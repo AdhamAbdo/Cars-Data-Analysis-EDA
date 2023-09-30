@@ -1,6 +1,6 @@
 # Cars-Data-Analysis-EDA-Prediction
 
-![Car_Analysissdsdedf](https://github.com/AdhamAbdo/Cars-Data-Analysis-EDA/assets/74153630/8ffa0e80-3d01-472a-9dad-a8de3c741dbc)
+![Car_Analysissdsdedf](https://github.com/AdhamAbdo/Cars-Data-Analysis-EDA-Prediction/assets/74153630/24a364a6-4525-450e-862b-7ba5dc088b46)
 
 ![Slide2](https://github.com/AdhamAbdo/Cars-Data-Analysis-EDA/assets/74153630/8230c363-b681-4415-9221-a9251190778a)
 
